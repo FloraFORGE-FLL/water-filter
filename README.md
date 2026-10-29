@@ -4,6 +4,8 @@
 
 ![Modular Water Filter](water-filter.png)
 
+GWFS is a filtration system for your gutters made up of three components. At the top there is an attachment that connects to your gutter with a hose. The next component is a tubular cylinder where the bottom part is a sieve that attaches to a coupler that, in turn attaches to your hose. The point of the invention is that instead of using city water when using your hose and adding money to your water bill you can use this filter and put rain water to use and avoid paying more money and also conserving water.
+
 ## Printed with PHA 🌱
 
 **What is PHA?** PHA is a plastic made by tiny microbes! They munch on plant sugars and oils and store the PHA inside their bodies, kind of like how we store energy.
